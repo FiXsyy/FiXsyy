@@ -5,6 +5,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fixsyy&show_icons=true&theme=synthwave&bg_color=00000000" />
 </a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fixsyy&layout=donut&langs_count=8&card_width=320&theme=synthwave&bg_color=00000000" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
